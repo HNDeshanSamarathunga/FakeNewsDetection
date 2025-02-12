@@ -59,9 +59,3 @@ With the rise of misinformation, this system aims to provide a simple, accessibl
 
 ## 💡 Contributing
 Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to **fork the repository** and submit a **pull request**.
-
-## 📄 License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
-## 🔗 Link to Demo
-- [Link to Project Demo](#)  *(Optional)*
